@@ -5,7 +5,7 @@ application:
 
 # Git Repository for the ArgoCD Application
 repo:
-  url: https://github.com/redhat-composer-ai/appOfApps.git # Change This on Fork
+  url: https://github.com/javo8a/appOfApps.git # Change This on Fork
   branch: main
 
 # Namespace for the ArgoCD Application
